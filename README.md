@@ -63,9 +63,9 @@
 
     Edge (web) • edge • web-javascript • Microsoft Edge
   
-    - [1]: Windows (windows)
-    - [2]: Chrome (chrome)
-    - [3]: Edge (edge) 
+    `[1]: Windows (windows)`
+    `[2]: Chrome (chrome)`
+    `[3]: Edge (edge)`
 
     `Выбрать из списка`, например: `"[2]: Chrome (chrome)"` ИЛИ `"[3]: Edge (edge)"` и ввести в строку `"2"` ИЛИ `"3"`
 
