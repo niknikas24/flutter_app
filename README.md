@@ -43,19 +43,23 @@
     - 5.1. Открыть например `Командную строку` и ввести (для Windows):
 
     `cd C:\Users\current_user_name\flutter_app` 
-	`Примечание: вместо "current_user_name" - нужно вписать имя текущего пользователя компьютера!`
+
+    `Примечание: вместо "current_user_name" - нужно вписать имя текущего пользователя компьютера!`
 	
-	`flutter pub get`
+    `flutter pub get`
 
     `flutter pub upgrade --major-versions`
 
     `flutter run`
 
    `Примечание: при появлении следующего списка`
+
     Connected devices:
     Windows (desktop) • windows • windows-x64    • Microsoft Windows
-    Chrome (web)      • chrome  • web-javascript • Google Chrome 
-    Edge (web)        • edge    • web-javascript • Microsoft Edge 
+
+    Chrome (web) • chrome • web-javascript • Google Chrome 
+    Edge (web) • edge • web-javascript • Microsoft Edge
+  
     [1]: Windows (windows)
     [2]: Chrome (chrome)
     [3]: Edge (edge)
