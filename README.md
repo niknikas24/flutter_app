@@ -54,15 +54,18 @@
 
    `Примечание: при появлении следующего списка`
 
+
     Connected devices:
-    Windows (desktop) • windows • windows-x64    • Microsoft Windows
+
+    Windows (desktop) • windows • windows-x64 • Microsoft Windows
 
     Chrome (web) • chrome • web-javascript • Google Chrome 
+
     Edge (web) • edge • web-javascript • Microsoft Edge
   
     [1]: Windows (windows)
     [2]: Chrome (chrome)
-    [3]: Edge (edge)
+    [3]: Edge (edge) 
 
     `Выбрать из списка`, например: `"[2]: Chrome (chrome)"` ИЛИ `"[3]: Edge (edge)"` и ввести в строку `"2"` ИЛИ `"3"`
 
